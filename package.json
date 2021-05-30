@@ -16,7 +16,8 @@
     "express": "^4.17.1",
     "nodemon": "^1.19.1",
     "socket.io": "^2.4.1",
-    "typescript": "^3.5.2"
+    "typescript": "^3.5.2",
+    "ts-node": "^8.10.2"
   },
   "devDependencies": {
     "ts-node": "^8.10.2"
