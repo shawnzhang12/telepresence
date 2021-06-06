@@ -4,7 +4,7 @@ An IEEE tech team project
 Followed this blog, DOESN'T WORK: 
 https://shadidhaque.medium.com/building-a-video-chat-application-with-socket-io-and-typescript-9fe9f4567594
 
-This one occasionally work for videos, works for chat (good for WASD controls). Use this one instead: 
+This one occasionally work for videos, works for chat (good for WASD controls). Clone this one instead: 
 https://github.com/itstaranarora/video-chat-v1
 
 
